@@ -154,7 +154,9 @@ Through this project, I have:
 # 👨‍💻 AUTHOR
 
 Yadav Rahul Suresh Chandra 
+
 Backend Developer (Aspiring)  
+
 Spring Boot Enthusiast  
 
 ---
